@@ -207,5 +207,4 @@ The following features are planned to make Vertex Connect even more secure and c
 
 Developed by **Sabarithan P**
 
-* **GitHub**: [SABARITHAN-P](https://github.com/SABARITHAN-P)
-* **LinkedIn**: [Sabarithan P](https://www.linkedin.com/in/sabarithan-palanivel-302852293/)
+* **GitHub**: [PIRANOW C](https://github.com/piranow)
